@@ -1,6 +1,7 @@
 # DllInjector
 
-### A simple, reliable DLL injector for Windows with a dark-themed UI. It supports injecting and ejecting DLLs into both 32-bit and 64-bit processes, can target any running process for injection, and — after injection — lists all modules loaded in the target process along with each module's base address. The tool also provides real-time process monitoring and detailed timestamped logging.
+
+#### A simple, reliable DLL injector for Windows with a dark-themed UI. It supports injecting and ejecting DLLs into both 32-bit and 64-bit processes, can target any running process for injection, and — after injection — lists all modules loaded in the target process along with each module's base address. The tool also provides real-time process monitoring and detailed timestamped logging.
 ---
 <img width="1005" height="708" alt="Screenshot 2025-11-12 153159" src="https://github.com/user-attachments/assets/4782ad63-e9bc-45c6-84e0-9aab80e9e32f" />
 
