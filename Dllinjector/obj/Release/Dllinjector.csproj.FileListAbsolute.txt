@@ -1,0 +1,10 @@
+C:\Users\prath\source\repos\Dllinjector\Dllinjector\bin\Release\Dllinjector.exe.config
+C:\Users\prath\source\repos\Dllinjector\Dllinjector\bin\Release\Dllinjector.exe
+C:\Users\prath\source\repos\Dllinjector\Dllinjector\bin\Release\Dllinjector.pdb
+C:\Users\prath\source\repos\Dllinjector\Dllinjector\obj\Release\Dllinjector.csproj.AssemblyReference.cache
+C:\Users\prath\source\repos\Dllinjector\Dllinjector\obj\Release\Dllinjector.Properties.Resources.resources
+C:\Users\prath\source\repos\Dllinjector\Dllinjector\obj\Release\Dllinjector.csproj.GenerateResource.cache
+C:\Users\prath\source\repos\Dllinjector\Dllinjector\obj\Release\Dllinjector.csproj.CoreCompileInputs.cache
+C:\Users\prath\source\repos\Dllinjector\Dllinjector\obj\Release\Dllinjector.exe
+C:\Users\prath\source\repos\Dllinjector\Dllinjector\obj\Release\Dllinjector.pdb
+C:\Users\prath\source\repos\Dllinjector\Dllinjector\obj\Release\Dllinjector.exe.config
